@@ -1,0 +1,31 @@
+.box {
+	border: 3px solid green;
+	padding: 20px;
+	margin: 30px;
+	width: 100px;
+	height: 100px;
+	float: left;
+}
+
+.container {
+	border: 3px solid red;
+	background: gray;
+}
+
+/*padding affects spacing inside an element*/
+/* margin affects spacing out*/
+/* mdn
+/* clearfix */
+/*
+ HOMEWORK 
+built something that looks nice*/
+/* irc.freenode.net -- #html5 ---- 3css*/
+/* limechat*/
+/* sign up for github
+try.github.com
+*/
+/* base camp */
+/* app store -- XCode
+hipchat
+app store download iTerm2
+*/
